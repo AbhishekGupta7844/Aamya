@@ -9,7 +9,7 @@
 
 ## Preview
 <p align="center">
-<img width="320" height="640" alt="Screenshot" class="center" src="https://github.com/user-attachments/assets/02dd7a48-b559-4bf7-9e5a-1e107921d20d" />
+<img width="320" height="640" alt="Screenshot" class="center" src="https://github.com/AbhishekGupta7844/Aamya/blob/master/Screenshot.png" />
 </p>
 
 ## Notes
